@@ -41,21 +41,3 @@
 
 <br>
 <br>
-
-<div align=center><h2>☃️ Experiences</h2></div> 
-
-**<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 14th</a> (July 2025 - ing)**
-- Samsung SW·AI academy For Youth
-
-**<a href="https://www.clamos.io/">CLAMOS Company</a> (Dec 2023 - June 2025)**
-- Backend Developer 
-
-**<a href="https://soapy-evening-7db.notion.site/CS-Study-2379c30a31a04601a4ce184c98909f96?pvs=4">CS Study</a> (Sep 2023 - Oct 2023)** 
-- 4 Person Computer-Science interview study<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
-**K-Digital Training (Jan 2023 - Aug 2023)**
-- Training course for big data service solution developers, SIST
-
-**<a href="https://soapy-evening-7db.notion.site/SIST-69a618187ebe4672a8d4ac028a9b8ca8?pvs=4">Python Grammer Study</a> (Mar 2023 - Apr 2023)**
-- 5 Person Python Grammar Task Study
-<br><br>
